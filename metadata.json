@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [ { "Name": "splicer scorn (voidrane)" } ],
+        "Category": "Date and Time",
+        "Description": "A living Xenoglyph sigil for the panel that tells the time in Daedric words; hover to read it in Latin",
+        "Icon": "start-here",
+        "Id": "scorn.xenoglyph.sigil",
+        "License": "GPL-3.0-or-later",
+        "Name": "Xenoglyph Sigil",
+        "Version": "1.0",
+        "Website": "https://github.com/numbpill3d/xenoglyph"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
